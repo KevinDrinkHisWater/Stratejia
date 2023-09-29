@@ -1,0 +1,15 @@
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.csproj.AssemblyReference.cache
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.AssemblyInfoInputs.cache
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.AssemblyInfo.cs
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.csproj.CoreCompileInputs.cache
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\bin\Debug\net6.0\StratejiaKata08.exe
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\bin\Debug\net6.0\StratejiaKata08.deps.json
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\bin\Debug\net6.0\StratejiaKata08.runtimeconfig.json
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\bin\Debug\net6.0\StratejiaKata08.dll
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\bin\Debug\net6.0\ref\StratejiaKata08.dll
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\bin\Debug\net6.0\StratejiaKata08.pdb
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.dll
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\ref\StratejiaKata08.dll
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.pdb
+D:\Kévin\Projet\Stratejia\StratejiaKata08\StratejiaKata08\obj\Debug\net6.0\StratejiaKata08.genruntimeconfig.cache
